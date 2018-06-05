@@ -9,24 +9,28 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btn1"
-        android:text="按钮1"/>
+        android:text="按钮1"
+        android:textAllCaps="false"/>
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btn2"
-        android:text="按钮2"/>
+        android:text="列表Activity"
+        android:textAllCaps="false"/>
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btn3"
-        android:text="按钮3"/>
+        android:text="按钮3"
+        android:textAllCaps="false"/>
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btn4"
-        android:text="按钮4"/>
+        android:text="按钮4"
+        android:textAllCaps="false"/>
 
 </LinearLayout>
